@@ -1,2 +1,2 @@
 # semi-best-practicas-crud
-Почти лучшая практика при создании CRUD app 
+Почти лучшая практика для создании CRUD app 
